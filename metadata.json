@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Cute Conversation",
+  "description": "A cute chat application that allows users to have real-time voice conversations with the Gemini Live API or type messages in a text-based chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
